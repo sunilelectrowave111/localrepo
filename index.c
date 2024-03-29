@@ -3,5 +3,5 @@ int main()
 {
  printf("by");
  printf("janvar");
- printf("banana")
+ printf("baba");
 }
