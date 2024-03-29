@@ -3,6 +3,5 @@ int main()
 {
  printf("by");
  printf("janvar");
- printf("baba\n");
- printf("git");
+ printf("baba");
 }
